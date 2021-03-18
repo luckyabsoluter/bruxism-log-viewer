@@ -1,0 +1,1 @@
+java -jar bruxism_log_viewer.jar
