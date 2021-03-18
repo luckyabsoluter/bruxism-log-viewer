@@ -1,5 +1,9 @@
 # bruxism-log-viewer
 
+# Features
+1. Download log
+2. View log
+
 # How to download log
 1. Pairing bluetooth with Bruxism Recorder
 2. Run program
